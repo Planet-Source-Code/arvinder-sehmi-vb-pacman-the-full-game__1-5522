@@ -1,0 +1,7 @@
+Please Open PacMan.exe To Install Source Code !
+
+VB-Pacman By Arvinder Sehmi, Vb@Arvinder.co.uk
+Includes All Source Code, Pictures, And Executables
+
+This Source Is In A Self-Extracting To Ensure That 
+Path Structures Are Retained.
